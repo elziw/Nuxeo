@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.nuxeo.lib.runtime:nuxeo-runtime-launcher:10.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/nuxeo/lib/runtime/nuxeo-runtime-launcher/10.2-SNAPSHOT/nuxeo-runtime-launcher-10.2-20180411.142543-32.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/nuxeo/lib/runtime/nuxeo-runtime-launcher/10.2-SNAPSHOT/nuxeo-runtime-launcher-10.2-20180411.142543-32-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/nuxeo/lib/runtime/nuxeo-runtime-launcher/10.2-SNAPSHOT/nuxeo-runtime-launcher-10.2-20180411.142543-32-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
